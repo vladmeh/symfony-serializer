@@ -1,0 +1,11 @@
+MyObj:
+  attributes:
+    foo:
+      groups: ['group1', 'group2']
+    bar:
+      groups: ['group3']
+
+Model\Person:
+  attributes:
+    firstName:
+      serialized_name: customer_name
