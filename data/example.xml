@@ -1,0 +1,2 @@
+<?xml version="1.0"?>
+<response><foo bar="value"/><qux><!--A comment--></qux></response>
